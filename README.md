@@ -90,4 +90,4 @@ Built with **IBM watsonx.ai, IBM Granite Models, Langflow, and React**, the proj
 *Interview Trainer Agent provides AI-generated interview guidance based on user-provided profile details. It is designed as a practice support system and does not guarantee job selection, official evaluation, or professional recruitment decisions.*
 
 ---
-**Prepared by:** Aachman Dixit / Gungun
+**Prepared by:** Gungun
