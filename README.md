@@ -26,7 +26,8 @@ Built with **IBM watsonx.ai, IBM Granite Models, Langflow, and React**, the proj
 5. **AI Generation (IBM watsonx.ai)**: IBM Granite LLM processes the context and generates safe, personalized interview content.
 6. **User Outputs**: Structured Q&A, readiness score, and suggestions are returned to the user interface.
 
-*(An architecture blueprint diagram can be found in the `docs/` or `screenshots/` folder).*
+<img width="1488" height="856" alt="image" src="https://github.com/user-attachments/assets/fd7a9adc-c3d7-43cd-b3ae-f1e1351d5264" />
+
 
 ---
 
