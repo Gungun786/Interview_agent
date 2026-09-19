@@ -54,7 +54,7 @@ Built with **IBM watsonx.ai, IBM Granite Models, Langflow, and React**, the proj
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/interview_trainer-agent.git
+   git clone github.com/Gungun786/Interview_agent.git
    cd interview_trainer-agent
    ```
 
